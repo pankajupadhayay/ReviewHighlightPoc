@@ -3,7 +3,7 @@ package com.basic.scala.StructType
 import org.apache.spark.sql.types.{ArrayType, IntegerType, StringType, StructType}
 import org.apache.spark.sql.{Row, SparkSession, types}
 
-object StructTypeNestedJson extends App {
+object ReviewHighlightStructType extends App {
 
   val spark = SparkSession.builder().appName("SparkByExamples.com")
     .master("local[1]")

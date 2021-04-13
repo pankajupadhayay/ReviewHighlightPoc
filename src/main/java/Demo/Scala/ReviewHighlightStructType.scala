@@ -66,7 +66,7 @@ object StructTypeNestedJson extends App {
   println("**************" + structureSchema.prettyJson)
 
   //printing json
-  arrayDF.write.mode("overwrite")
-    .json("/Users/pankaj.upadhayay/Documents/Dev/SampleData/StructTypeBasic11.json")
+    arrayDF.write.mode("overwrite")
+      .json("src/test/resources/output/StructTypeBasic11.json")
 
 }

@@ -16,8 +16,10 @@ object ReviewHighlightStructType extends App {
 
 
   val structureData2 = Seq(
-    Row(Row(Row(Row(234, 345, Row("rating", "about", "reviewText", "author", "reviewText", "author", "snippetId", "summary", "submissionTime", "reviewTitle")))
-      , Row(Row(234, 345, Row("rating", "about", "reviewText", "author", "reviewText", "author", "snippetId", "summary", "submissionTime", "reviewTitle"))))))
+    Row(Row(Row(Row(234, 345, List(Row("rating", "about", "reviewText", "author", "reviewText", "author", "snippetId", "summary", "submissionTime", "reviewTitle")
+                                  ,Row("rating12", "about12", "reviewText12", "author34", "reviewText45", "author56", "snippetId56", "summary56", "submissionTime67", "reviewTitle65"))))
+      , Row(Row(234, 345, List(Row("rating", "about", "reviewText", "author", "reviewText", "author", "snippetId", "summary", "submissionTime", "reviewTitle")))))))
+
 
 
   val positive_feature = "price"
@@ -28,7 +30,7 @@ object ReviewHighlightStructType extends App {
         .add(positive_feature, new StructType()
           .add("presenceCount", IntegerType)
           .add("mentionsCount", IntegerType)
-          .add("bestExamples", new StructType()
+          .add("bestExamples", ArrayType(new StructType()
             .add("rating", StringType)
             .add("about", StringType)
             .add("reviewText", StringType)
@@ -36,7 +38,7 @@ object ReviewHighlightStructType extends App {
             .add("snippetId", StringType)
             .add("summary", StringType)
             .add("submissionTime", StringType)
-            .add("reviewTitle", StringType)
+            .add("reviewTitle", StringType))
           )
         )
       )
@@ -44,7 +46,7 @@ object ReviewHighlightStructType extends App {
         .add(negative_feature, new StructType()
           .add("presenceCount", IntegerType)
           .add("mentionsCount", IntegerType)
-          .add("bestExamples", new StructType()
+          .add("bestExamples", ArrayType(new StructType()
             .add("rating", StringType)
             .add("about", StringType)
             .add("reviewText", StringType)
@@ -52,7 +54,7 @@ object ReviewHighlightStructType extends App {
             .add("snippetId", StringType)
             .add("summary", StringType)
             .add("submissionTime", StringType)
-            .add("reviewTitle", StringType)
+            .add("reviewTitle", StringType))
           )
         )
       )
@@ -66,7 +68,7 @@ object ReviewHighlightStructType extends App {
   println("**************" + structureSchema.prettyJson)
 
   //printing json
-    arrayDF.write.mode("overwrite")
-      .json("src/test/resources/output/StructTypeBasic11.json")
+  arrayDF.write.mode("overwrite")
+    .json("src/test/resources/output/StructTypeBasic11.json")
 
 }

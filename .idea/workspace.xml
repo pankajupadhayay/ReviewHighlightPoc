@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6696c5d7-cba9-43c7-9a6c-a8c89811c83b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1qEnkx4TMSxUdygWwioxpMn78pP" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Demo.Scala" />
+      <recent name="com.basic.spark" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/lectures/partBasic" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StructTypeBasic">
+    <configuration name="ReviewHighlightFeatureAPI_All (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.basic.spark.ReviewHighlightFeatureAPI_All" />
+      <module name="SparkProject" />
+      <option name="PROGRAM_PARAMETERS" value="server src/test/resources/config/icebreaker-local-config.yaml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.spark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReviewHighlightFeatureAPI_Franch (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Demo.Scala.ReviewHighlightFeatureAPI_Franch" />
+      <module name="SparkProject" />
+      <option name="PROGRAM_PARAMETERS" value="server src/test/resources/config/icebreaker-local-config.yaml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo.Scala.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReviewHighlightFeatureAPI_Franch" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.basic.spark.ReviewHighlightFeatureAPI_Franch" />
+      <module name="SparkProject" />
+      <option name="PROGRAM_PARAMETERS" value="server src/test/resources/config/icebreaker-local-config.yaml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.spark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReviewHighlightStructType" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.basic.scala.StructType.ReviewHighlightStructType" />
+      <module name="SparkProject" />
+      <option name="PROGRAM_PARAMETERS" value="server src/test/resources/config/icebreaker-local-config.yaml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.scala.StructType.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StructTypeBasic" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.basic.scala.StructType.StructTypeBasic" />
+      <module name="SparkProject" />
+      <option name="PROGRAM_PARAMETERS" value="server src/test/resources/config/icebreaker-local-config.yaml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.scala.StructType.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.bazaarvoice.icebreaker.IcebreakerApplication" />
+      <option name="PROGRAM_PARAMETERS" value="server src/test/resources/config/icebreaker-local-config.yaml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StructTypeBasic" />
+        <item itemvalue="Application.ReviewHighlightStructType" />
+        <item itemvalue="Application.ReviewHighlightFeatureAPI_Franch" />
+        <item itemvalue="Application.ReviewHighlightFeatureAPI_All (1)" />
+        <item itemvalue="Application.ReviewHighlightFeatureAPI_Franch (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6696c5d7-cba9-43c7-9a6c-a8c89811c83b" name="Default Changelist" comment="" />
+      <created>1616653763454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616653763454</updated>
+      <workItem from="1616653765140" duration="24393000" />
+      <workItem from="1617124267503" duration="65134000" />
+      <workItem from="1617689462889" duration="30233000" />
+      <workItem from="1617790243778" duration="26163000" />
+      <workItem from="1617876610613" duration="106263000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="578" y="281" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1618289254492">
+      <screen x="0" y="25" width="1680" height="960" />
+    </state>
+    <state x="578" y="279" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.25.1680.954@0.25.1680.954" timestamp="1617788113867" />
+    <state x="578" y="280" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.25.1680.956@0.25.1680.956" timestamp="1617872283573" />
+    <state x="578" y="280" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.25.1680.958@0.25.1680.958" timestamp="1618203829348" />
+    <state x="578" y="281" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.25.1680.959@0.25.1680.959" timestamp="1618130609263" />
+    <state x="578" y="281" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.25.1680.960@0.25.1680.960" timestamp="1618289254492" />
+    <state x="578" y="282" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.25.1680.964@0.25.1680.964" timestamp="1618285440679" />
+    <state x="578" y="282" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.25.1680.966@0.25.1680.966" timestamp="1617177916815" />
+    <state x="578" y="282" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.25.1680.967@0.25.1680.967" timestamp="1616671563375" />
+    <state x="454" y="183" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1616659217919">
+      <screen x="0" y="25" width="1680" height="967" />
+    </state>
+    <state x="454" y="183" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.25.1680.966@0.25.1680.966" timestamp="1616653882351" />
+    <state x="454" y="183" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.25.1680.967@0.25.1680.967" timestamp="1616659217919" />
+    <state x="764" y="264" key="#xdebugger.XInspectDialog" timestamp="1617188734692">
+      <screen x="0" y="25" width="1680" height="965" />
+    </state>
+    <state x="764" y="264" key="#xdebugger.XInspectDialog/0.25.1680.965@0.25.1680.965" timestamp="1617188734692" />
+    <state width="515" height="468" key="DebuggerActiveHint" timestamp="1618219029371">
+      <screen x="0" y="25" width="1680" height="960" />
+    </state>
+    <state width="515" height="466" key="DebuggerActiveHint/0.25.1680.958@0.25.1680.958" timestamp="1617968898066" />
+    <state width="515" height="467" key="DebuggerActiveHint/0.25.1680.959@0.25.1680.959" timestamp="1618129258126" />
+    <state width="515" height="468" key="DebuggerActiveHint/0.25.1680.960@0.25.1680.960" timestamp="1618219029371" />
+    <state width="1638" height="350" key="GridCell.Tab.0.bottom" timestamp="1618288722736">
+      <screen x="0" y="25" width="1680" height="960" />
+    </state>
+    <state width="1638" height="312" key="GridCell.Tab.0.bottom/0.25.1680.954@0.25.1680.954" timestamp="1617860333869" />
+    <state width="1638" height="448" key="GridCell.Tab.0.bottom/0.25.1680.956@0.25.1680.956" timestamp="1617876164910" />
+    <state width="1638" height="350" key="GridCell.Tab.0.bottom/0.25.1680.958@0.25.1680.958" timestamp="1618216838245" />
+    <state width="1638" height="799" key="GridCell.Tab.0.bottom/0.25.1680.959@0.25.1680.959" timestamp="1618237340706" />
+    <state width="1638" height="350" key="GridCell.Tab.0.bottom/0.25.1680.960@0.25.1680.960" timestamp="1618288722736" />
+    <state width="1638" height="799" key="GridCell.Tab.0.bottom/0.25.1680.964@0.25.1680.964" timestamp="1618285514374" />
+    <state width="1638" height="317" key="GridCell.Tab.0.bottom/0.25.1680.965@0.25.1680.965" timestamp="1617188795736" />
+    <state width="1638" height="317" key="GridCell.Tab.0.bottom/0.25.1680.966@0.0.1680.1050" timestamp="1617179351446" />
+    <state width="1638" height="258" key="GridCell.Tab.0.bottom/0.25.1680.966@0.25.1680.966" timestamp="1617195323849" />
+    <state width="1638" height="317" key="GridCell.Tab.0.bottom/0.25.1680.967@0.25.1680.967" timestamp="1617179945244" />
+    <state width="1638" height="258" key="GridCell.Tab.0.bottom/0.25.1680.968@0.25.1680.968" timestamp="1616667111692" />
+    <state width="1638" height="350" key="GridCell.Tab.0.center" timestamp="1618288722735">
+      <screen x="0" y="25" width="1680" height="960" />
+    </state>
+    <state width="1638" height="312" key="GridCell.Tab.0.center/0.25.1680.954@0.25.1680.954" timestamp="1617860333868" />
+    <state width="1638" height="448" key="GridCell.Tab.0.center/0.25.1680.956@0.25.1680.956" timestamp="1617876164910" />
+    <state width="1638" height="350" key="GridCell.Tab.0.center/0.25.1680.958@0.25.1680.958" timestamp="1618216838244" />
+    <state width="1638" height="799" key="GridCell.Tab.0.center/0.25.1680.959@0.25.1680.959" timestamp="1618237340706" />
+    <state width="1638" height="350" key="GridCell.Tab.0.center/0.25.1680.960@0.25.1680.960" timestamp="1618288722735" />
+    <state width="1638" height="799" key="GridCell.Tab.0.center/0.25.1680.964@0.25.1680.964" timestamp="1618285514373" />
+    <state width="1638" height="317" key="GridCell.Tab.0.center/0.25.1680.965@0.25.1680.965" timestamp="1617188795735" />
+    <state width="1638" height="317" key="GridCell.Tab.0.center/0.25.1680.966@0.0.1680.1050" timestamp="1617179351444" />
+    <state width="1638" height="258" key="GridCell.Tab.0.center/0.25.1680.966@0.25.1680.966" timestamp="1617195323848" />
+    <state width="1638" height="317" key="GridCell.Tab.0.center/0.25.1680.967@0.25.1680.967" timestamp="1617179945240" />
+    <state width="1638" height="258" key="GridCell.Tab.0.center/0.25.1680.968@0.25.1680.968" timestamp="1616667111691" />
+    <state width="1638" height="350" key="GridCell.Tab.0.left" timestamp="1618288722734">
+      <screen x="0" y="25" width="1680" height="960" />
+    </state>
+    <state width="1638" height="312" key="GridCell.Tab.0.left/0.25.1680.954@0.25.1680.954" timestamp="1617860333868" />
+    <state width="1638" height="448" key="GridCell.Tab.0.left/0.25.1680.956@0.25.1680.956" timestamp="1617876164909" />
+    <state width="1638" height="350" key="GridCell.Tab.0.left/0.25.1680.958@0.25.1680.958" timestamp="1618216838243" />
+    <state width="1638" height="799" key="GridCell.Tab.0.left/0.25.1680.959@0.25.1680.959" timestamp="1618237340705" />
+    <state width="1638" height="350" key="GridCell.Tab.0.left/0.25.1680.960@0.25.1680.960" timestamp="1618288722734" />
+    <state width="1638" height="799" key="GridCell.Tab.0.left/0.25.1680.964@0.25.1680.964" timestamp="1618285514372" />
+    <state width="1638" height="317" key="GridCell.Tab.0.left/0.25.1680.965@0.25.1680.965" timestamp="1617188795734" />
+    <state width="1638" height="317" key="GridCell.Tab.0.left/0.25.1680.966@0.0.1680.1050" timestamp="1617179351442" />
+    <state width="1638" height="258" key="GridCell.Tab.0.left/0.25.1680.966@0.25.1680.966" timestamp="1617195323847" />
+    <state width="1638" height="317" key="GridCell.Tab.0.left/0.25.1680.967@0.25.1680.967" timestamp="1617179945237" />
+    <state width="1638" height="258" key="GridCell.Tab.0.left/0.25.1680.968@0.25.1680.968" timestamp="1616667111691" />
+    <state width="1638" height="350" key="GridCell.Tab.0.right" timestamp="1618288722735">
+      <screen x="0" y="25" width="1680" height="960" />
+    </state>
+    <state width="1638" height="312" key="GridCell.Tab.0.right/0.25.1680.954@0.25.1680.954" timestamp="1617860333869" />
+    <state width="1638" height="448" key="GridCell.Tab.0.right/0.25.1680.956@0.25.1680.956" timestamp="1617876164910" />
+    <state width="1638" height="350" key="GridCell.Tab.0.right/0.25.1680.958@0.25.1680.958" timestamp="1618216838244" />
+    <state width="1638" height="799" key="GridCell.Tab.0.right/0.25.1680.959@0.25.1680.959" timestamp="1618237340706" />
+    <state width="1638" height="350" key="GridCell.Tab.0.right/0.25.1680.960@0.25.1680.960" timestamp="1618288722735" />
+    <state width="1638" height="799" key="GridCell.Tab.0.right/0.25.1680.964@0.25.1680.964" timestamp="1618285514373" />
+    <state width="1638" height="317" key="GridCell.Tab.0.right/0.25.1680.965@0.25.1680.965" timestamp="1617188795735" />
+    <state width="1638" height="317" key="GridCell.Tab.0.right/0.25.1680.966@0.0.1680.1050" timestamp="1617179351446" />
+    <state width="1638" height="258" key="GridCell.Tab.0.right/0.25.1680.966@0.25.1680.966" timestamp="1617195323848" />
+    <state width="1638" height="317" key="GridCell.Tab.0.right/0.25.1680.967@0.25.1680.967" timestamp="1617179945243" />
+    <state width="1638" height="258" key="GridCell.Tab.0.right/0.25.1680.968@0.25.1680.968" timestamp="1616667111692" />
+    <state width="1638" height="449" key="GridCell.Tab.1.bottom" timestamp="1618219170985">
+      <screen x="0" y="25" width="1680" height="960" />
+    </state>
+    <state width="1638" height="312" key="GridCell.Tab.1.bottom/0.25.1680.954@0.25.1680.954" timestamp="1617860386496" />
+    <state width="1638" height="448" key="GridCell.Tab.1.bottom/0.25.1680.956@0.25.1680.956" timestamp="1617876164912" />
+    <state width="1638" height="449" key="GridCell.Tab.1.bottom/0.25.1680.958@0.25.1680.958" timestamp="1618121538220" />
+    <state width="1638" height="449" key="GridCell.Tab.1.bottom/0.25.1680.959@0.25.1680.959" timestamp="1618213176774" />
+    <state width="1638" height="449" key="GridCell.Tab.1.bottom/0.25.1680.960@0.25.1680.960" timestamp="1618219170985" />
+    <state width="1638" height="317" key="GridCell.Tab.1.bottom/0.25.1680.965@0.25.1680.965" timestamp="1617188795737" />
+    <state width="1638" height="317" key="GridCell.Tab.1.bottom/0.25.1680.966@0.0.1680.1050" timestamp="1617179351451" />
+    <state width="1638" height="317" key="GridCell.Tab.1.bottom/0.25.1680.966@0.25.1680.966" timestamp="1617194892203" />
+    <state width="1638" height="317" key="GridCell.Tab.1.bottom/0.25.1680.967@0.25.1680.967" timestamp="1617180003188" />
+    <state width="1638" height="449" key="GridCell.Tab.1.center" timestamp="1618219170984">
+      <screen x="0" y="25" width="1680" height="960" />
+    </state>
+    <state width="1638" height="312" key="GridCell.Tab.1.center/0.25.1680.954@0.25.1680.954" timestamp="1617860386495" />
+    <state width="1638" height="448" key="GridCell.Tab.1.center/0.25.1680.956@0.25.1680.956" timestamp="1617876164911" />
+    <state width="1638" height="449" key="GridCell.Tab.1.center/0.25.1680.958@0.25.1680.958" timestamp="1618121538219" />
+    <state width="1638" height="449" key="GridCell.Tab.1.center/0.25.1680.959@0.25.1680.959" timestamp="1618213176773" />
+    <state width="1638" height="449" key="GridCell.Tab.1.center/0.25.1680.960@0.25.1680.960" timestamp="1618219170984" />
+    <state width="1638" height="317" key="GridCell.Tab.1.center/0.25.1680.965@0.25.1680.965" timestamp="1617188795736" />
+    <state width="1638" height="317" key="GridCell.Tab.1.center/0.25.1680.966@0.0.1680.1050" timestamp="1617179351449" />
+    <state width="1638" height="317" key="GridCell.Tab.1.center/0.25.1680.966@0.25.1680.966" timestamp="1617194892202" />
+    <state width="1638" height="317" key="GridCell.Tab.1.center/0.25.1680.967@0.25.1680.967" timestamp="1617180003186" />
+    <state width="1638" height="449" key="GridCell.Tab.1.left" timestamp="1618219170983">
+      <screen x="0" y="25" width="1680" height="960" />
+    </state>
+    <state width="1638" height="312" key="GridCell.Tab.1.left/0.25.1680.954@0.25.1680.954" timestamp="1617860386494" />
+    <state width="1638" height="448" key="GridCell.Tab.1.left/0.25.1680.956@0.25.1680.956" timestamp="1617876164911" />
+    <state width="1638" height="449" key="GridCell.Tab.1.left/0.25.1680.958@0.25.1680.958" timestamp="1618121538219" />
+    <state width="1638" height="449" key="GridCell.Tab.1.left/0.25.1680.959@0.25.1680.959" timestamp="1618213176772" />
+    <state width="1638" height="449" key="GridCell.Tab.1.left/0.25.1680.960@0.25.1680.960" timestamp="1618219170983" />
+    <state width="1638" height="317" key="GridCell.Tab.1.left/0.25.1680.965@0.25.1680.965" timestamp="1617188795736" />
+    <state width="1638" height="317" key="GridCell.Tab.1.left/0.25.1680.966@0.0.1680.1050" timestamp="1617179351447" />
+    <state width="1638" height="317" key="GridCell.Tab.1.left/0.25.1680.966@0.25.1680.966" timestamp="1617194892202" />
+    <state width="1638" height="317" key="GridCell.Tab.1.left/0.25.1680.967@0.25.1680.967" timestamp="1617180003186" />
+    <state width="1638" height="449" key="GridCell.Tab.1.right" timestamp="1618219170984">
+      <screen x="0" y="25" width="1680" height="960" />
+    </state>
+    <state width="1638" height="312" key="GridCell.Tab.1.right/0.25.1680.954@0.25.1680.954" timestamp="1617860386495" />
+    <state width="1638" height="448" key="GridCell.Tab.1.right/0.25.1680.956@0.25.1680.956" timestamp="1617876164911" />
+    <state width="1638" height="449" key="GridCell.Tab.1.right/0.25.1680.958@0.25.1680.958" timestamp="1618121538220" />
+    <state width="1638" height="449" key="GridCell.Tab.1.right/0.25.1680.959@0.25.1680.959" timestamp="1618213176773" />
+    <state width="1638" height="449" key="GridCell.Tab.1.right/0.25.1680.960@0.25.1680.960" timestamp="1618219170984" />
+    <state width="1638" height="317" key="GridCell.Tab.1.right/0.25.1680.965@0.25.1680.965" timestamp="1617188795737" />
+    <state width="1638" height="317" key="GridCell.Tab.1.right/0.25.1680.966@0.0.1680.1050" timestamp="1617179351450" />
+    <state width="1638" height="317" key="GridCell.Tab.1.right/0.25.1680.966@0.25.1680.966" timestamp="1617194892202" />
+    <state width="1638" height="317" key="GridCell.Tab.1.right/0.25.1680.967@0.25.1680.967" timestamp="1617180003187" />
+    <state x="100" y="125" width="1480" height="757" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1618219145897">
+      <screen x="0" y="25" width="1680" height="960" />
+    </state>
+    <state x="100" y="125" width="1480" height="756" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1680.958@0.25.1680.958" timestamp="1618008412730" />
+    <state x="100" y="125" width="1480" height="756" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1680.959@0.25.1680.959" timestamp="1618218140884" />
+    <state x="100" y="125" width="1480" height="757" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1680.960@0.25.1680.960" timestamp="1618219145897" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1617689045814">
+      <screen x="0" y="25" width="1680" height="960" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.25.1680.960@0.25.1680.960" timestamp="1617689045814" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/basic/spark/UpdateObject.scala</url>
+          <line>34</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/basic/spark/UpdateObject.scala</url>
+          <line>49</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/basic/spark/UpdateObject.scala</url>
+          <line>39</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/basic/spark/ReviewHighlightFeatureAPI6.scala</url>
+          <line>105</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/basic/spark/scalatoJSON.scala</url>
+          <line>50</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/basic/spark/ReviewHighlightFeatureAPI8.scala</url>
+          <line>120</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/basic/spark/DataFram/JsonObjectCreation.scala</url>
+          <line>28</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/basic/spark/DataFram/JsonObjectCreation.scala</url>
+          <line>30</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/basic/spark/ReviewHighlightFeatureAPI_update1.scala</url>
+          <line>117</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/basic/spark/ReviewHighlightFeatureAPI_Franch.scala</url>
+          <line>95</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/basic/spark/ReviewHighlightFeatureAPI_Franch.scala</url>
+          <line>97</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
